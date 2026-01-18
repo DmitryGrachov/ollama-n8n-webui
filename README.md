@@ -5,6 +5,8 @@
 - check model - docker exec -it ollama ollama list
 - actual ollama url for n8n - http://ollama:11434
 
+## External links
+
 - n8n - http://localhost:5678/
 - open webUI = http://localhost:3000/
 - ollama - http://localhost:11434
